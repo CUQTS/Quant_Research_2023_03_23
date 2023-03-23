@@ -1,1 +1,1 @@
-# Quant_Research_2023_03_23
+# This repository is for a quant research report by CUHK Quant Trading Society published on 2023/03/23.
