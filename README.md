@@ -1,1 +1,1 @@
-This repository is for a quant research report by CUHK Quant Trading Society published on 2023/03/23.
+This repository is for a quant research report by CUHK Quant Trading Society published on 2023/03/23. Please find the full report in the link below https://www.cuqts.com/quant-research-report/evidence-of-alpha-decay-in-us-equities-markets.
